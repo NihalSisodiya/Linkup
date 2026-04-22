@@ -2,7 +2,7 @@
 LinkUp is MERN stack project – a social media website where users can connect, share, and interact.
 This project taught me a lot about full-stack development, debugging, and integrating third-party services.
 
-## Features (Current)
+## Features
 ### 1. User Authentication & Profiles
 * Secure sign-up and login using Clerk authentication.
 * Personalized user profiles with profile picture, bio, and activity overview.
